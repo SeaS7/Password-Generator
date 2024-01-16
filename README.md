@@ -1,2 +1,1 @@
-# Password-Generator
-Password Generating app using React / React practice
+ React practice
